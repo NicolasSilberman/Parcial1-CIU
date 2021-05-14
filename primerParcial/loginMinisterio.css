@@ -1,0 +1,70 @@
+.logo {
+    display:block;
+    margin:auto;
+    height: 100px;
+    width: 450px;
+}
+
+header {
+    background-color: whitesmoke
+}
+body {
+    background-color: f0e684;
+}
+
+.descripcion {
+    background-color: 8cd3ce;
+}
+
+h3 {
+    text-align: center;
+    font-family:sans-serif ;
+}
+
+form {
+    text-align: center;
+}
+.usuario {
+    text-align: center;
+    height: 50px ;
+    width: 200px;
+}
+
+.contraseña {
+    text-align: center;
+    height: 50px ;
+    width: 200px;
+}
+
+#perfil {
+    position: absolute;
+    left: 50px;
+    height: 30px ;
+    width: 150px;
+}
+
+#salir {
+    position: absolute;
+    right: 50px;
+    height: 30px ;
+    width: 150px;
+    background-color: red;   
+}
+
+.cupon {
+    border: solid cadetblue;
+    background-color: cadetblue;
+    text-align: center;
+}
+
+
+.porcentaje {
+    text-align: center;
+    background: greenyellow;
+    color: white;
+}
+
+.zocalo {
+    background-color: fece00;
+    text-align: center;
+}
